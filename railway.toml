@@ -1,5 +1,4 @@
-{
-    "build": {
+"build": {
         "builder": "DOCKERFILE",
         "dockerfilePath": "./Dockerfile",
         "watchPatterns": [
@@ -9,4 +8,3 @@
             "Dockerfile"
         ]
     }
-}
